@@ -22,3 +22,18 @@ p {
     background-color: #cccccc;
     padding: 2rem;
 }
+
+.coolStuffWrapper {
+    margin-top: 20px;
+
+}
+
+button.coolStuffBtn {
+    background-color: #298bb0;
+    color: white;
+    display: block;
+    margin: auto;
+    max-width: 175px;
+    padding: 10px;
+    font-weight: bold;
+}
