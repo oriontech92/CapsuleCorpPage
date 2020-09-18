@@ -21,6 +21,7 @@ p {
 .sectionDark {
     background-color: #cccccc;
     padding: 2rem;
+    margin: 0px 15px 15px 15px;
 }
 
 .coolStuffWrapper {
@@ -36,4 +37,8 @@ button.coolStuffBtn {
     max-width: 175px;
     padding: 10px;
     font-weight: bold;
+}
+
+img.gokuArt {
+    margin: auto;
 }
