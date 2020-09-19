@@ -46,3 +46,20 @@ h5.modal-title {
 .modalFormWrapper {
     padding: 2rem;
 }
+
+.imgCenter {
+    display: block;
+    margin: auto;
+}
+
+.btnCenter {
+    display: block;
+    margin: 1rem auto;
+    background-color: #298bb0;
+    color: white;
+    font-weight: bold;
+}
+
+.btnCenter2 {
+    width: 228px;
+}
