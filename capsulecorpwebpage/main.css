@@ -63,3 +63,11 @@ h5.modal-title {
 .btnCenter2 {
     width: 228px;
 }
+
+h1.display-4 {
+    font-weight: bold;
+}
+
+p.lead {
+    font-weight: bold;
+}
