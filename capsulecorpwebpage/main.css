@@ -39,6 +39,10 @@ button.coolStuffBtn {
     font-weight: bold;
 }
 
-img.gokuArt {
-    margin: auto;
+h5.modal-title {
+   margin: auto; 
+}
+
+.modalFormWrapper {
+    padding: 2rem;
 }
