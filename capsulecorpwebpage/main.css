@@ -16,12 +16,18 @@ p {
 .sectionLight {
     background-color: #eceeef;
     padding: 2em;
+    /* margin: 0px 15px; */
+}
+
+.fitThis {
+    margin: 0px 15px 0px 15px;
+    max-width: -moz-available;
 }
 
 .sectionDark {
     background-color: #cccccc;
-    padding: 2rem;
-    margin: 0px 15px 15px 15px;
+    padding: 1rem;
+    margin: 0px 15px;
 }
 
 .coolStuffWrapper {
@@ -79,4 +85,17 @@ div.modal-content p {
     padding: .5rem;
     color: white;
     margin: 0;
+}
+
+img.footerImg {
+    padding: 15px 15px;
+}
+
+footer.footerStyle {
+    background-color: #262c3a;
+    margin: 0px 15px;
+}
+
+.footerAlign {
+    text-align: left;
 }
