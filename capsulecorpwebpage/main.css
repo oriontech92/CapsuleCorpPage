@@ -96,6 +96,22 @@ footer.footerStyle {
     margin: 0px 15px;
 }
 
-.footerAlign {
-    text-align: left;
+.fab {
+    margin: 10px;
+}
+
+.fa-facebook-square {
+    color: #3b5998;
+}
+
+.fa-google-plus-square {
+    color: #c32f10;
+}
+
+.fa-instagram {
+    color: white;
+}
+
+.socialWrapper {
+    margin: auto;
 }
